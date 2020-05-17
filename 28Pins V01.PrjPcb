@@ -397,99 +397,11 @@ DocumentPath=Project Outputs for Arduino_V01\Gerber\28Pins PCB V01.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for Arduino_V01\NC Drill\Arduino_PCB_V01-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Arduino_V01\NC Drill\Arduino_PCB_V01-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for Arduino_V01\NC Drill\Arduino_PCB_V01.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for Arduino_V01\Gerber\Arduino_PCB_V01.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for Arduino_V01\Gerber\Arduino_PCB_V01.G1
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for Arduino_V01\Gerber\Arduino_PCB_V01.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for Arduino_V01\Gerber\Arduino_PCB_V01.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for Arduino_V01\Gerber\Arduino_PCB_V01.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for Arduino_V01\Gerber\Arduino_PCB_V01.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for Arduino_V01\Gerber\Arduino_PCB_V01.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for Arduino_V01\Gerber\Arduino_PCB_V01.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for Arduino_V01\Gerber\Arduino_PCB_V01.GM28
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for Arduino_V01\Gerber\Arduino_PCB_V01.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for Arduino_V01\Gerber\Arduino_PCB_V01.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for Arduino_V01\Gerber\Arduino_PCB_V01.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for Arduino_V01\Gerber\Arduino_PCB_V01.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for Arduino_V01\Gerber\Arduino_PCB_V01.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for Arduino_V01\NC Drill\Arduino_PCB_V01.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for Arduino_V01\Gerber\Arduino_PCB_V01.REP
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for Arduino_V01\Gerber\Arduino_PCB_V01.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument42]
 DocumentPath=Project Outputs for Arduino_V01\Design Rule Check - 28Pins PCB V01.html
 DItemRevisionGUID=
 
-[GeneratedDocument43]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for Arduino_V01\Design Rule Check - Arduino_PCB_V01.html
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs for Arduino_V01\Pick Place\Pick Place for 28Pins PCB V01(Fixed 5V).txt
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs for Arduino_V01\Pick Place\Pick Place for Arduino_PCB_V01.txt
 DItemRevisionGUID=
 
 [Parameter1]

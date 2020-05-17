@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\jmorar567\Desktop\altium\Arduino_V01\28Pins PCB V01.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Power Nets|Scope=Board|Minimum=15.75
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Width|RuleName=Width_1|Scope=Board|Minimum=7.87
